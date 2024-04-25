@@ -15,7 +15,7 @@
 
 ## :rocket: Sobre o Desafio:
 
-Nesse desafio você deve desenvolver um script em PHP para migrar os dados entre dois sistemas médicos fictícios. Os dados do sistema legado foram extraídos no formato CSV e devem ser migrados para a estrutura do outro sistema, em uma banco de dados MySQL (recomendamos a utlização do MariaDB).
+Nesse desafio desenvolvi um script em PHP para migrar os dados entre dois sistemas médicos fictícios. Os dados do sistema legado foram extraídos no formato CSV e devem ser migrados para a estrutura do outro sistema que utiliza o banco de dados MySQL.
 
 ## :medical_symbol: Contextualizando:
 
@@ -23,9 +23,9 @@ Uma clínica médica está se atualizando e trocando de sistema. Para isso, é n
 
 ## :dart: Objetivos:
 
-* Avaliar seus conhecimentos técnicos na linguagem PHP;
-* Avaliar seus conhecimentos técnicos em bancos de dados MySQL;
-* Avaliar sua capacidade na resolução de problemas lógicos.
+* Avaliar os conhecimentos técnicos na linguagem PHP;
+* Avaliar os conhecimentos técnicos em bancos de dados MySQL;
+* Avaliar a capacidade na resolução de problemas lógicos.
 
 
 
