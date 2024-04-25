@@ -28,3 +28,39 @@ Uma clínica médica está se atualizando e trocando de sistema. Para isso, é n
 * Avaliar sua capacidade na resolução de problemas lógicos.
 
 
+
+## Rodando localmente :car:
+
+Pré -requisitos
+
+- Docker
+- Composer
+
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/AnthonyWendy/challange-amplimed.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd challange-amplimed
+```
+
+Inicie o servidor
+
+```bash
+  docker-compose up
+```
+
+Execute os scripts do arquivo no banco mysql
+```bash
+  script/lib/script-database.sql
+```
+
+Execute o index.php pela navegador
+```bash
+  http://localhost:81/index.php
+```
